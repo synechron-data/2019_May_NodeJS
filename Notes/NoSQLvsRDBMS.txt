@@ -1,0 +1,21 @@
+RDBMS				No SQL
+
+SQL Server/Oracle		MongoDB
+
+Database			Database
+
+Table				Collection
+
+Primary Key			_id (Default)
+
+Row				Document
+
+Column				Field
+
+Join				Embededed Document
+
+SQL Query			MongoDB API's	
+
+Backgroud Process		Mongod (CLI)
+
+SSMS / SQL Plus			Mongo (CLI), Compass, RoboMongo		
